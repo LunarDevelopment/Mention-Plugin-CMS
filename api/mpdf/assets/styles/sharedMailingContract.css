@@ -1,0 +1,164 @@
+		body {
+		    font-family: DejaVuSansCondensed, sans-serif;
+		    font-size: 12pt;
+		}
+		
+		p {
+		    text-align: justify;
+		    margin-bottom: 4pt;
+		    margin-top: 0pt;
+		}
+		
+		hr {
+		    width: 70%;
+		    height: 1px;
+		    text-align: center;
+		    color: #999999;
+		    margin-top: 8pt;
+		    margin-bottom: 8pt;
+		}
+		
+		a {}
+		
+		pre {}
+		
+		h1 {font-size: 1.8em}
+		
+		h2 {}
+		
+		h3 {
+            margin: 2px;
+        }
+		
+		h4 {}
+		
+		h5 {}
+		
+		h6 {}
+		
+		.breadcrumb {
+		    text-align: right;
+		    font-size: 8pt;
+		    font-family: DejaVuSerifCondensed, serif;
+		    color: #666666;
+		    font-weight: bold;
+		    font-style: normal;
+		    margin-bottom: 6pt;
+		}
+		
+		.infobox {
+		    margin-top: 10pt;
+		    background-color: #DDDDBB;
+		    text-align: center;
+		    border: 1px solid #880000;
+		}
+		
+		.big {
+		    font-size: 1.5em;
+		}
+		
+		.red {
+		    color: #880000;
+		}
+		
+		.slanted {
+		    font-style: italic;
+		}
+		
+		.header {
+		    margin: 0pt;
+		    padding: 0pt;
+		}
+		
+		.body {
+		    margin: 20pt;
+		    padding: 20pt;
+		}
+		
+		.box-header {
+            background: #ebebeb;
+		}
+		
+		.box-body {
+		    background: #fff;
+		}
+		
+		.bold-sub-title {
+		    font-weight: bold;
+		}
+		
+		.bold-text {
+		    font-weight: bold;
+		}
+		
+		
+        .underline-text {
+		    text-decoration: underline;
+		}
+		
+        .final-footer { 
+
+            align-items: center; 
+            text-align: center;
+            align-content: center;
+            margin-top: 100pt;
+        }
+      .final-footer p{ 
+                margin-top: 1pt;
+          align-items: center; 
+              text-align: center;
+          align-content: center;
+        }
+        .logo {
+            margin-bottom: 10px;
+        }
+        .heading-text { margin-top:0pt;
+            font-size: 2.5em;
+        }
+		.disclaimer {
+            padding:10pt;
+            text-align:center;
+            height: 110pt;
+		    background: #000;
+		    color: #fff;
+		    font-weight: bold;
+		}
+        .disclaimer h3{
+            padding:0pt;
+            font-size: 1.5em;
+        }
+		.terms-and-conditions {}
+		
+		.terms-and-conditions p {
+		    font-size: 12px;
+		}
+        .footer-p-margin {
+            padding-top:20px;   
+        }
+        .gray-heading {
+            background: #ebebeb;
+            border:1px solid #000; 
+        }
+        .alignleft {
+            float: left;
+        }
+        .alignright {
+            float: right;
+        }
+        .text-left {
+            text-align:left;
+        }
+        .customer-details {
+            text-align:left;
+        }
+        .margin-top {
+            margin-top: 20pt;
+            margin-bottom: 20pt;
+            
+        }
+        .gray-margin-top {
+            margin-top: 20pt;
+        }
+        .tc-sub-header h3{
+            font-size: 1.8em; 
+        }
